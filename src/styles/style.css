@@ -1,0 +1,15 @@
+@import url("general.css");
+@import url("hero.css");
+@import url("lines.css");
+@import url("stations.css");
+@import url("contact.css");
+@import url("errorpage.css");
+
+.app {
+  width: 100%;
+  max-width: 760px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 16px;
+}
